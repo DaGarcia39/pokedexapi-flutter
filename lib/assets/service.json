@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pokeapichallenge",
+  "private_key_id": "4c1818abe8055130336ed077b253a3b2485642e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDbSGMD7E4U4ICq\n3yWBigql1xKcmz0FCMK1vgru7F1W+f4uyuQg4EFCdTC5ANiAxupMMKhWhmPI+osu\ny8vSwSPT0Y2X75N/sm9MbxJbiBo2Jp/yUsqeGr0KhvwR3mf0W3eKQICA8G5wnlnU\n5CJQHy0f03UkcV3ru70Lrs0bnPPWnQcL0Lzj0ii5YdhcJuJhD2xIAkwTorM3Fl9x\nQvZNoMjs9JACt+MTE9ytqMgS+opGtzxpSzW5LpYphqxK4TBi/DdyqFCdgxhiVl08\nCox81yFPOCc27b+/dlJ+br18CpZkqgGfoDQ6R3f/GxUPNbAp58scDrHBf7uBFRw0\nQBm7qDsvAgMBAAECggEAaRdFgN1QxHedooaEMpNmK/mprU1GzrFWo4Q7OCsmRqdT\n1rgc4dan4AJLAfbyS7FJG4+cNa99hhXw+1HnUo+GrJ661cyXK3VoGsEGksBlE3uq\nXxenjGMzIybzCltFBdqKLUNhcqoHu8hgNAPLoAt49E5Cz17XjMDyRnWVTf0H7Vt8\nKYCiuz4dXPSXxiIIH5ylydrsaLYD6WZ5OMOHch/CmzcEslVp2GvcjXIHqiA+y9Qv\nrp/xO+wfCw0/bmhBt6fqAtqXN8u0rEVnD9rqr692/dO4pjdijq43JSgvaPia/WXA\nqtU5RY7v1uowFgDetX8sgQEjCPGfFcdW9jsYuF7QvQKBgQDtVtVogz+ZjwSUM7kx\nNlTr160K7R1AoOZS/uvEo7S66YDg32/h4MtJ/u9ReG/TKPlJdFdpN2O4OcR1DTlq\nY/pZO2GRFL9igcauCPBxYeLK9jSqp3QtQHevCvofO+JLkizTL8IrnoppF75QfGj2\n+oPtroidSEJ8JauTVnogCOOtzQKBgQDshhzv2ywBvBLzYxpDjj/8YsfkMOwRRtFH\np7mydIV3+fFw/oub3mdCq0e3QvfDe/SixKNm4rvGueSEmgA1AkIidpoiBxmwHWfD\niI29LBPnQo6Lj+9kUnHtSfMetChPE6wCrvymlhJ1JIyVba+fsOFuEFxNrrK6DtRK\nPoRiIxZw6wKBgQDfaTzL+7hTmU/rHeE21PkNZGFMhrVhj9Qfzj0rRhqrU4BwrYNI\n8e0Kw4KNgzxoXgqDPZPGxFAHK8GlmYQxhNk1Q/NsuUYKuTTHwDxtzoHJIgejmKuA\nqU3AJSobWqiDEJ9HUI6Lttp9YM9SPjokOt8TTpbkzw9eg6tFr0KYgyWnBQKBgQCR\ngSu6Ds3yvz21Ruk4WAFbBXXNFp+TPUqv1ynw86fMGBIFHkLKf7ZsmCwFPIhpVQ85\nNtkDCUbVSTSgspCgC6SdyPKnLlEKO/zCmHYBw2T3JsXEa6asw99cR9rtr40AoKx3\n9ihtXvM552Mo5hJdnhYAfMYb7/X5afgFOJJ+QPGkQwKBgQDgL7meIuUzmNUJYVZA\njSFCHq/Mmzk88OnIa5PVamo5uCuXjYcH0N9bCSoulvAXEp2i+MGce1JUHXssX+Oa\n9/yTQjExEDYwaVHi18YDiHaabhqSe/ykTVNswWdd8xSa4y1BaB8xXHp/mbrj7BXf\nYpouIOwKFO0I3VDqbCOLCNznPA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pokeapi-chatbot@pokeapichallenge.iam.gserviceaccount.com",
+  "client_id": "116378888073123230852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pokeapi-chatbot%40pokeapichallenge.iam.gserviceaccount.com"
+}
